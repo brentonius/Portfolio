@@ -1,0 +1,6 @@
+body {
+    --navbar-background-color: rgb(190,49,68);
+}
+.nav {
+    background-color: var(--navbar-background-color);
+}
