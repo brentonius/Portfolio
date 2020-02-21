@@ -8,10 +8,11 @@
 /* Variables */
 :root {
     --accent-color: rgb(48,56,65);
+	--accent-2: #FCF0A4;
 	--primary-color: rgb(32,32,35);
 	--secondary-color: #2c7873;
 	--welcome-background-color: #2c7873;
-	--main-white: #f0f0f0;
+	--main-white: #F4F4F4FF;
 	--footer-border: #2c7873;
 }
 
@@ -146,18 +147,19 @@ img {
 /* Projects section */
 
 .projects {
-	background: var(--primary-color);
+	background: var(--main-white);
 	padding: 10rem 2rem;
 	text-align: center;
 	min-height: 100vh;
+	color: var(--accent-color);
 	
 	
 }
 
 .project-header {
 	margin: 1rem auto 6rem auto; /* auto left and right */
-	border-bottom: .2rem solid var(--main-white);
-	max-width: 600px;
+	border-bottom: .2rem solid var(--accent-color);
+	max-width: 650px;
 }
 
 .project-container {
