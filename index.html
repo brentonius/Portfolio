@@ -4,42 +4,68 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Brenton Jackson</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.0/css/bulma.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.0/css/bulma.css"> -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:200i,300,400&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:700&amp;display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/5c5f192669.js" crossorigin="anonymous"></script>
+
+
 </head>
 <body>
     <!-- Nav bar -->
-    <nav id="navbar" class="nav navbar is-fixed-top has-background-danger">
-        <div class="navbar-brand">
-            <div class="navbar-burger"></div>
-        </div>
-        <div class="navbar-menu">
-            <div class="navbar-end">
-                <div class="navbar-item">About</div>
-                <div class="navbar-item">Work</div>
-                <div class="navbar-item">Contact</div>
-            </div>
-        </div>
+    <nav id="navbar" class="nav">
+        <ul class="navbar-menu">
+            <li class="navbar-item">
+                <a href="#welcome-section">About</a>
+            </li>
+            <li class="navbar-item">
+                <a href="#projects">Work</a>
+            </li>
+            <li class="navbar-item">
+                <a href="#contact">Contact</a>
+            </li>
+        </ul>
     </nav>
     <!-- Home section (About) -->
-    <section class="content about has-background-grey">
-        <h1>Hi I am Brenton</h1>
+    <section id="welcome-section" class="about">
+        <h1 >Hey I am Brenton</h1>
         <p>a web developer</p>
     </section>
     <!-- Projects section -->
-    <section class="work">
-        <h1>These are some of my projects</h1>
-        <div class="card">Project 1</div>
-        <div class="card">Project 2</div>
+    <section id="projects" class="projects">
+        <h2 class="project-header">These are some of my projects</h2>
+        <div class="project-container">
+            <a href="https://dabrentmeister.github.io/tribute" target="_blank" class="project-tile">
+                <img src="../tribute/tribute.png" class="project-image" alt="project">
+                <p class="project-title">
+                    Tribute Page
+                </p>
+            </a>
+            <a href="https://dabrentmeister.github.io/tribute" target="_blank" class="project-tile">
+                <img src="../survey/survey.png" class="project-image" alt="project">
+                <p class="project-title">
+                    Survey Form
+                </p>
+            </a>
+        </div>
     </section>
     <!-- Contact section -->
-    <section class="contact">
-        <h1>Let's work together...</h1>
-        <p>How do you take your coffee?</p>
+    <section id="contact" class="contact">
+        <div class="header">
+            <h2>Let's work together...</h2>
+            <p>How do you take your coffee?</p>
+        </div>
+        <ul class="socials">
+            <li class="social-link"> <a href="https://www.linkedin.com/in/jacksonbrenton" target="_blank"><i class="fab fa-linkedin-in social-icon"></i> LinkedIn</a></li>
+            <li class="social-link"><a href="https://github.com/dabrentmeister" target="_blank"><i class="fab fa-github github-icon fa-lg social-icon"></i> GitHub</a></li>
+            <li class="social-link"><a href="mailto:bjackson71@gatech.edu" target="_blank"><i class="fas fa-at social-icon"></i> Email</a></li>
+        </ul>
     </section>
     <!-- Footer -->
-    <section class="footer">
-        <p>Created by Brenton Jackson </p>
+    <section class="foot">
+        <p>Created by Brenton Jackson <a href="https://github.com/dabrentmeister/portfolio" class="github-link" target="_blank"><i class="fab fa-github github-icon fa-lg"></i></a></p>
     </section>
 </body>
 </html>
