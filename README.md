@@ -1,7 +1,8 @@
 # Project Title
 
-My Single Page Developer Portfolio
+Portfolio
 
+https://dabrentmeister.github.io/Portfolio/
 
 
 ## Built With
