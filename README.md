@@ -2,7 +2,7 @@
 
 Portfolio
 
-https://dabrentmeister.github.io/Portfolio/
+https://brentonjackson.github.io/portfolio/
 
 
 ## Built With
@@ -16,7 +16,7 @@ https://dabrentmeister.github.io/Portfolio/
 
 ## Authors
 
-* **Brenton Jackson** - *Initial work* - [daBrentMeister](https://github.com/daBrentMeister)
+* **Brenton Jackson** - *Initial work* - [Brenton](https://github.com/brentonjackson)
 
 
 
