@@ -2,21 +2,20 @@
 
 Portfolio
 
-https://dabrentmeister.github.io/Portfolio/
+https://brentonjackson.github.io/Portfolio/
 
 
 ## Built With
 
 * HTML
 * CSS
-* Bulma CSS Framework
 * JavaScript
 
 
 
 ## Authors
 
-* **Brenton Jackson** - *Initial work* - [daBrentMeister](https://github.com/daBrentMeister)
+* **Brenton Jackson** - *Initial work* - [Brenton](https://github.com/brentonjackson)
 
 
 
