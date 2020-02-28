@@ -1,3 +1,7 @@
+// const subHead =  document.querySelector('.subheader')
+// subHead.classList.add('animated', 'bounceInLeft')
+
+
 // Scroll to top button functionality
 
 //Get the button:

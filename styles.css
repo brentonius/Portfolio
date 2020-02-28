@@ -175,6 +175,10 @@ img {
 	/* font-weight: 200; */
 }
 
+.subheader.animated {
+	animation-duration: 2s;
+}
+
 a.more {
 	position: absolute;
 	width: 19px;
