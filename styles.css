@@ -204,7 +204,6 @@ img {
 
 	.project-header {
 	margin: 1rem auto 6rem auto; /* auto left and right */
-	border-bottom: .2rem solid var(--main-white);
 	max-width: 700px;
 	}
 }
@@ -227,12 +226,15 @@ img {
 	/* height: calc(100% - 6.8rem); */
 }
 
-.project-tile:hover {
-	-webkit-transform: scale(1.1);
-	   -moz-transform: scale(1.1);
-	    -ms-transform: scale(1.1);
-	     -o-transform: scale(1.1);
-	        transform: scale(1.1);
+@media (min-width:961px)  { 
+	/* tablet, landscape iPad, lo-res laptops ands desktops */
+	.project-tile:hover {
+		-webkit-transform: scale(1.1);
+		   -moz-transform: scale(1.1);
+		    -ms-transform: scale(1.1);
+		     -o-transform: scale(1.1);
+		        transform: scale(1.1);
+	}
 }
 
 .project-title {
