@@ -9,7 +9,6 @@ https://brentonjackson.github.io/portfolio/
 
 * HTML
 * CSS
-* Bulma CSS Framework
 * JavaScript
 
 
