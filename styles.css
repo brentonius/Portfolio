@@ -94,7 +94,8 @@ ul{
 
 a {
 	text-decoration: none;
-	color: var(--main-white)
+	color: var(--main-white);
+	transition: all .2s ease-in-out;
 }
 
 img {
@@ -144,6 +145,23 @@ img {
 	/* font-weight: 200; */
 }
 
+a.more {
+	position: absolute;
+	width: 19px;
+	bottom: 15px;
+	opacity: 0.5;
+	animation-iteration-count: infinite;
+}
+
+a.more:hover {
+	opacity: 1;
+}
+
+@media only screen and (max-width: 768px) {
+	a.more {
+    	display: none;
+	}
+}
 
 
 /* Projects section */
