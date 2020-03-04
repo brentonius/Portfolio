@@ -20,7 +20,3 @@ https://brentonjackson.github.io/portfolio/
 * **Brenton Jackson** - [Brenton](https://github.com/brentonjackson)
 
 
-
-## Acknowledgments
-
-
