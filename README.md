@@ -17,13 +17,10 @@ https://brentonjackson.github.io/portfolio/
 
 ## Authors
 
-* **Brenton Jackson** - *Initial work* - [Brenton](https://github.com/brentonjackson)
+* **Brenton Jackson** - [Brenton](https://github.com/brentonjackson)
 
 
 
 ## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
 
 
