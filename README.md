@@ -1,6 +1,5 @@
-# Project Title
+# Portfolio
 
-Portfolio
 
 https://brentonjackson.github.io/portfolio/
 
@@ -9,19 +8,15 @@ https://brentonjackson.github.io/portfolio/
 
 * HTML
 * CSS
+* animate.css
 * JavaScript
+* jQuery
+
 
 
 
 ## Authors
 
-* **Brenton Jackson** - *Initial work* - [Brenton](https://github.com/brentonjackson)
-
-
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
+* **Brenton Jackson** - [Brenton](https://github.com/brentonjackson)
 
 
