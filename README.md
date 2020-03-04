@@ -1,6 +1,5 @@
-# Project Title
+# Portfolio
 
-Portfolio
 
 https://brentonjackson.github.io/portfolio/
 
