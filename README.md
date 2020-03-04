@@ -8,7 +8,10 @@ https://brentonjackson.github.io/portfolio/
 
 * HTML
 * CSS
+* animate.css
 * JavaScript
+* jQuery
+
 
 
 
