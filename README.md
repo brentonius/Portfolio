@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
 
-[Redid portfolio](https://driventocode.com)
+[Redid portfolio](https://brentonjackson.me)
 
 
 ## Built With
